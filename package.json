@@ -1,8 +1,8 @@
 {
-  "name": "base.instore",
+  "name": "indevasetup.instore",
   "version": "1.0.0",
   "private": true,
-  "description": "Base inStore",
+  "description": "indevasetup inStore",
   "author": "Guilherme Bruzzi",
   "keywords": [
     "gatsby",
@@ -23,7 +23,7 @@
     "cypress:open": "cypress open"
   },
   "dependencies": {
-    "@vtexlab/gatsby-theme-instore-core": "0.1.8",
+    "@vtexlab/gatsby-theme-instore-core": "0.7.0",
     "gatsby": "^3.7.2"
   },
   "devDependencies": {
